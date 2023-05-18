@@ -1,0 +1,39 @@
+nav {
+    background-color: #141414d2;
+    height: 4em;
+    display: flex;
+    justify-content: center;
+    font-family:"Poppins";
+    box-shadow:0 0 1em 0 #CF81D6;
+    position: fixed;
+    top: 0 ;
+    width: 100vw;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  
+  nav ul li {
+    margin: 0 7px;
+  }
+  
+  nav ul li a {
+    display: flex;
+    color: #CF81D6;
+    font-size: 1rem;
+    padding: 0 ;
+    text-decoration: none;
+    text-transform: uppercase;
+    align-items: center;
+  }
+  
+  
+  nav ul li a:hover{
+    color: #9E34A8;
+    text-decoration: underline;
+  }

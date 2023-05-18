@@ -1,0 +1,82 @@
+.contatos {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: #340738;
+    width: 100vw;
+    padding: 2em;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.contatos .conteudo_contatos {
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
+
+.contatos .conteudo_contatos h1{
+    font-size: 3em;
+    font-family: "Poppins";
+    color: white;
+    margin: 1em;
+}
+
+.icones_contato {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 0.5em;
+
+}
+
+.icones_contato .icones_separados h2 a{
+    font-size: 0.7em;
+    color: #cf44db;
+    text-decoration: none ;
+}
+
+.contatos .conteudo_contatos .icones_contato .icones_separados svg {
+    font-size: 3.5em;
+    color: #cf44db;
+    margin-left: 1.5em;
+    margin-right: 1.5em;
+    margin-bottom: 0.3em;
+}
+
+.conteudo_contatos .baixar_cv a{ 
+    font-size: 1.3em;
+    color: #340738;
+    font-weight: bold;
+    font-family: "Poppins";
+    text-decoration: none;
+}
+
+.conteudo_contatos .baixar_cv {
+    padding: 1em;
+    border-radius: 17px;
+    background-image: linear-gradient(
+    to top left,          
+    #cf44db,
+    #d09dd5 70%
+  );
+  border-style: none;
+}
+
+.contatos .conteudo_contatos .icones_contato .icones_separados svg:hover {
+color: #570c5e;
+}
+
+.icones_contato .icones_separados h2 a:hover{
+    color: #570c5e;
+}
+
+.conteudo_contatos .baixar_cv:hover {
+    background-image: linear-gradient(
+    to top left,          
+    #4e0155,
+    #a169a7 70%
+  );
+
+}

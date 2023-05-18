@@ -1,0 +1,20 @@
+.icones_redes_sociais {
+    display: flex;
+    gap: 10px;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+.icones_redes_sociais svg{
+    size: 50px;
+    font-size: 50px;
+    cursor: pointer;
+    color: #cf81cf;
+    margin: 5px;
+
+}
+
+.icones_redes_sociais svg:hover{
+    color: #571c5c;
+}

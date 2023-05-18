@@ -1,0 +1,31 @@
+.footer {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: #141414;
+    width: 100vw;
+    padding: 2em;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.conteudo_footer {
+    display: block;
+}
+
+.conteudo_footer img{
+    width: 3.5em;
+    height: 3.5em;
+    border-radius: 50%;
+}
+
+.conteudo_footer .texto_footer{
+    margin-top: 0.5em;
+}
+.conteudo_footer .texto_footer h2{
+    color: #cf44db;
+    font-size: 1em;
+    font-weight: 100;
+    margin-bottom: 0.2em;
+}
+

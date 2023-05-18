@@ -1,0 +1,63 @@
+.titulo_habilidades {
+    color: #ffff;
+    font-size: 3em;
+    margin-top: 2rem;
+}
+
+.habilidades {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #340738;
+    width: 100vw;
+    padding: 2em;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.conteudo_habilidades {
+    width: 80vw;
+}
+
+.conteudo_habilidades .carrossel_habilidades {
+    display: flex;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    margin-top: 2em;
+}
+
+.carrossel_habilidades .item {
+    margin: 1em;
+    padding: 1em;
+    object-fit: cover;
+}
+
+
+.conteudo_habilidades .botoes button{
+    font-size: 4em;
+    color: #cf44db;
+    background-color: #340738;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+}
+
+.conteudo_habilidades .botoes button:hover{
+    color: #6f0e78;
+}
+
+.item svg {
+    font-size: 85px;
+    margin: 10px;
+    color: #cf81cf;
+
+}
+
+.conteudo_habilidades .carrossel_habilidades span {
+    color: #cf44db;
+    font-size: 1em;
+    font-family: 'Poppins';
+    font-weight: bold;
+}
+
+

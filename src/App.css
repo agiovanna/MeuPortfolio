@@ -1,0 +1,22 @@
+body {
+  background-image: linear-gradient(
+    to top left,
+    black ,           
+    #141414,
+    #571C5C 70%
+  );
+  justify-content: center;
+  align-items: center;
+  font-family: 'Poppins';/*backdrop-filter: blur (2px);*/
+  overflow-x: hidden;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

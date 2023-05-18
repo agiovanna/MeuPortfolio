@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sobre_mim {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin-top: 150px;
+  padding: 2em;
+  text-align: center;
+  width: 100vw;
+  background-color: #340738;
+  
+}
+ 
+.texto p {
+  color: white;
+  text-align: justify;
+  width: 60vw;
+  font-size: 20px;
+}
+
+.texto h1 {
+  color: #ffff;
+  font-size: 2em;
+  margin-top: 1rem;
+}
+
+.texto img {
+  width: 15em;
+  height: 15em;
+  border-radius: 50%;
+}
