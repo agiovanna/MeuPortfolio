@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Hi! This is my first portfolio! Developed in React JS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
