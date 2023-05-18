@@ -1,4 +1,7 @@
 # Hi! This is my first portfolio! Developed in React JS
+![image](https://github.com/agiovanna/MeuPortfolio/assets/93129433/c2c37164-171e-4e9c-a3fe-a65effd1814d)
+
+## <img src='blob:https://vercel.com/4bf66257-5113-4b80-b1db-920af4eece5a'>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
